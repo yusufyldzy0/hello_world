@@ -1,6 +1,6 @@
 {
     'name': 'Hello World',
-    'version': '18.0.1.0.0',
+    'version': '16.0.1.0.0',
     'summary': 'Basit bir Merhaba Dünya modülü',
     'description': 'Odoo için basit bir örnek uygulama.',
     'author': 'Senin Adın',
